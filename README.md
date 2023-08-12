@@ -1,5 +1,5 @@
 ## Advanced Revenue Analysis Pipeline in Android Applications Market
-
+ 
 **Project Description:**
 
 Designed and executed an innovative and sophisticated Data Warehouse, Data Cube, and Online Analytical Processing (OLAP) reporting pipeline to analyze and forecast revenue trends in the rapidly evolving Android applications market.
